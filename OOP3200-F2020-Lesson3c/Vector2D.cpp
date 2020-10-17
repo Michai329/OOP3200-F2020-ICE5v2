@@ -1,3 +1,5 @@
+//Author: Michai Pryce 
+// Date: October 16th,2020
 #include "Vector2D.h"
 
 #include <iomanip>

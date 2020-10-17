@@ -1,3 +1,5 @@
+//Author: Michai Pryce 
+// Date: October 16th,2020
 #pragma once
 #ifndef __VECTOR2D__
 #define __VECTOR2D__
