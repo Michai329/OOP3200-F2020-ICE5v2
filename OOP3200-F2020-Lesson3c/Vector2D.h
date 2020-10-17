@@ -49,7 +49,7 @@ public:
 
 	// input/output operator overloads
 	friend std::ostream& operator<<(std::ostream& out, const Vector2D& rhs);
-	friend std::istream& operator>>(std::istream& in, Vector2D& rhs);
+		friend std::istream& operator>>(std::istream& in, Vector2D& rhs);
 
 	// overload string cast
 	explicit operator std::string() const;
